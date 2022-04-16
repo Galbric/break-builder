@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/break-builder/static/css/main.cbfcbfef.css",
+    "main.js": "/break-builder/static/js/main.02423d9e.js",
+    "static/media/Rhyth.otf": "/break-builder/static/media/Rhyth.248cebc1e498a63d9a92.otf",
+    "index.html": "/break-builder/index.html",
+    "main.cbfcbfef.css.map": "/break-builder/static/css/main.cbfcbfef.css.map",
+    "main.02423d9e.js.map": "/break-builder/static/js/main.02423d9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbfcbfef.css",
+    "static/js/main.02423d9e.js"
+  ]
+}
